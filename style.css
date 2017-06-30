@@ -196,7 +196,7 @@ h {
 
 .workContainer a p {
 	font-family: 'Feijoa';
- 	src: url(fonts/Feijoa.otf);
+ 	src: url(fonts/Feijoa.ttf);
  	color: #95989A;
  	padding-bottom: 30px;
  	line-height: 25px; 
@@ -359,7 +359,7 @@ h {
 	width: 70%;
 	text-align: left;
 	font-family: 'Feijoa';
- 	src: url(fonts/Feijoa.otf);
+ 	src: url(fonts/Feijoa.ttf);
  	color: #545454;
  	padding-bottom: 15px;
  	line-height: 27px;
@@ -376,7 +376,7 @@ h {
 
 figcaption {
 	font-family: 'Feijoa-Medium';
-	src: url(fonts/Feijoa-Medium.otf);
+	src: url(fonts/Feijoa-Medium.ttf);
 	color: grey;
 	font-size: 13px;
 }
