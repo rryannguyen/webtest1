@@ -358,8 +358,7 @@ h {
 .postBody p {
 	width: 70%;
 	text-align: left;
-	font-family: 'Feijoa';
- 	src: url(fonts/Feijoa.ttf);
+	font-family: 'Crimson Text', serif;
  	color: #545454;
  	padding-bottom: 15px;
  	line-height: 27px;
